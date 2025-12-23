@@ -1,0 +1,12 @@
+D:\app_test\AppdatveBackend\AppdatveCore\bin\Debug\net9.0\AppdatveCore.deps.json
+D:\app_test\AppdatveBackend\AppdatveCore\bin\Debug\net9.0\AppdatveCore.dll
+D:\app_test\AppdatveBackend\AppdatveCore\bin\Debug\net9.0\AppdatveCore.pdb
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.csproj.AssemblyReference.cache
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.AssemblyInfoInputs.cache
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.AssemblyInfo.cs
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.csproj.CoreCompileInputs.cache
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.dll
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\refint\AppdatveCore.dll
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.pdb
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\ref\AppdatveCore.dll

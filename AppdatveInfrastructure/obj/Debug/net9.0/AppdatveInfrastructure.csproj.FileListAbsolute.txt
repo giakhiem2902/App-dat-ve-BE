@@ -1,0 +1,17 @@
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveInfrastructure.deps.json
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveInfrastructure.runtimeconfig.json
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveInfrastructure.dll
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveInfrastructure.pdb
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveCore.dll
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\bin\Debug\net9.0\AppdatveCore.pdb
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.csproj.AssemblyReference.cache
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.AssemblyInfoInputs.cache
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.AssemblyInfo.cs
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.csproj.CoreCompileInputs.cache
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\Appdatve.93ECFBEE.Up2Date
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.dll
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\refint\AppdatveInfrastructure.dll
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.pdb
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.genruntimeconfig.cache
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\ref\AppdatveInfrastructure.dll
