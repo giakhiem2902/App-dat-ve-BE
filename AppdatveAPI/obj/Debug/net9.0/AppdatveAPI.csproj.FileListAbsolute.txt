@@ -160,3 +160,4 @@ D:\app_test\AppdatveBackend\AppdatveAPI\obj\Debug\net9.0\refint\AppdatveAPI.dll
 D:\app_test\AppdatveBackend\AppdatveAPI\obj\Debug\net9.0\AppdatveAPI.pdb
 D:\app_test\AppdatveBackend\AppdatveAPI\obj\Debug\net9.0\AppdatveAPI.genruntimeconfig.cache
 D:\app_test\AppdatveBackend\AppdatveAPI\obj\Debug\net9.0\ref\AppdatveAPI.dll
+D:\app_test\AppdatveBackend\AppdatveAPI\obj\Debug\net9.0\AppdatveAPI.sourcelink.json

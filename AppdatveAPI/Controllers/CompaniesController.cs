@@ -86,7 +86,7 @@ public class CompaniesController(AppDbContext context) : ControllerBase
         if (company == null) return NotFound();
 
         // Kiểm tra xem hãng có đang sở hữu xe nào không trước khi xóa
-        var hasBuses = await context.Busess.AnyAsync(b => b.BusCompanyId == id);
+        var hasBuses = await context.Buses.AnyAsync(b => b.BusCompanyId == id);
         if (hasBuses) return BadRequest("Không thể xóa hãng xe đang có xe hoạt động.");
 
         context.BusCompanies.Remove(company);

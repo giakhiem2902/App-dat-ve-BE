@@ -9,13 +9,13 @@ public class AppDbContext : IdentityDbContext<ApplicationUser>
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
     public DbSet<BusCompany> BusCompanies { get; set; }
-    public DbSet<Bus> Busess { get; set; }
+    public DbSet<Bus> Buses { get; set; }
     public DbSet<Trip> Trips { get; set; }
     public DbSet<Booking> Bookings { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
     base.OnModelCreating(builder);
-
+    builder.Entity<Bus>().ToTable("Buses");
     // Cấu hình độ chính xác cho tiền tệ (18 chữ số, 2 số lẻ)
     builder.Entity<Trip>()
         .Property(t => t.Price)

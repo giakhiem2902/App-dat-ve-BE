@@ -15,3 +15,4 @@ D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\refint\Appda
 D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.pdb
 D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.genruntimeconfig.cache
 D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\ref\AppdatveInfrastructure.dll
+D:\app_test\AppdatveBackend\AppdatveInfrastructure\obj\Debug\net9.0\AppdatveInfrastructure.sourcelink.json

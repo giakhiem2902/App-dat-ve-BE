@@ -10,3 +10,4 @@ D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.dll
 D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\refint\AppdatveCore.dll
 D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.pdb
 D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\ref\AppdatveCore.dll
+D:\app_test\AppdatveBackend\AppdatveCore\obj\Debug\net9.0\AppdatveCore.sourcelink.json
